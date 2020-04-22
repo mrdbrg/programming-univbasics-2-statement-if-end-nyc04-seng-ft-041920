@@ -1,4 +1,4 @@
-current_time = Time.now.sec
+current_time = Time.now
 
 isItEvenOdd = current_time.to_i % 2 === 0 
 
